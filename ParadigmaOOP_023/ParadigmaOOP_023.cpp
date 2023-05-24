@@ -42,5 +42,5 @@ int main() {
 	cout << siswa1.perkenalan();
 	cout << "Hasil = " << siswa1.jumlah(10, 90) << endl;
 
-	return 0;
+	return 0;
 }
