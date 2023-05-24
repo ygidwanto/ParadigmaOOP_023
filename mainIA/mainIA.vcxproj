@@ -130,7 +130,7 @@
     <ClCompile Include="mainIA.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="a. ibu.h" />
+    <ClInclude Include="ibu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

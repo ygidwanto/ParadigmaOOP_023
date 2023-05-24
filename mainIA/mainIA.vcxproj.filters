@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="a. ibu.h">
+    <ClInclude Include="ibu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
